@@ -1,7 +1,7 @@
 dataset gui alpha - 3/31/2021 - Contact: dewittat@g.cofc.edu
 
 
-!NOTE! - You must put it in your client id and authority url into the submitLogin() function (as strings).
+!NOTE! - You must put it in your client id and authority url into the submitLogin() function (as strings) in Dataset_GUI.py
 
 
 How to use:
